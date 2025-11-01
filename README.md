@@ -1,6 +1,7 @@
 # real-time-dashboard-databricks
 
-<img width="1192" height="652" alt="Ảnh chụp màn hình 2025-11-01 102549" src="https://github.com/user-attachments/assets/d5807221-febb-44f9-b238-e5dc338d0230" />
+<img width="1170" height="656" alt="image" src="https://github.com/user-attachments/assets/9d85ad70-23e7-41a4-af61-490b0711e9af" />
+
 
 ### step 1: write a python script to simulate the json files streaming
 you can find the python script in the main.py file above

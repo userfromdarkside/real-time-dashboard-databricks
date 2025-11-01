@@ -11,6 +11,8 @@ one thing I really like about dataclass is I can expand it easily
 -> genereate access secret -> download the credential
 
 ### step : create a S3 bucket
+here is the image when i test the streaming between VS Code and S3
+<img width="1476" height="735" alt="image" src="https://github.com/user-attachments/assets/9d70bf38-1cfe-4626-959c-46758622e31f" />
 
 ### step 3: connect VS Code to the S3 via the Iam user credential
 
